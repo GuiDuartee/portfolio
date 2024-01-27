@@ -1,7 +1,8 @@
 # Portfólio
-Portfólio com todos os projetos desenvolvidos.
+Portfólio com projetos desenvolvidos.
 
 ## Projeto para desenvolvimento da lógica de programação
+![Desafio manipulação com o DOM](https://github.com/GuiDuartee/portfolio/blob/main/img/desafio-manipulacao-com-o-dom.png)
 Link para o projeto de [Lógica de programação](https://github.com/GuiDuartee/portfolio/tree/main/logica-js-projeto_inicial).
 
 ## Projeto de adivinhação
